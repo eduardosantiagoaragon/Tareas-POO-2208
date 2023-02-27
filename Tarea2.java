@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class t2 {
+public class Tarea2 {
 
     public static void main(String[] args) {
         //String nombre, profesion, pais;
